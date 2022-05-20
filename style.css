@@ -1,12 +1,12 @@
 *{
-    padding: 10;
-    marging: 30px;  
+    padding: 0;
+    marging: 0;  
 }
 body{
-    background-color: ghostwhite;
+    background-color: white;
 }
 .menu-navegacion{
-    font-family:'Courier New', Courier, monospace;
+    font-family:"Helvetica";
     font-size: 15px;
     display: flex;
     flex-direction: row;
@@ -17,7 +17,7 @@ body{
     margin: 20px;
 }
 .menu-navegacion:hover{
-    color:mediumspringgreen
+    color:rgb(9, 26, 19)
 }
 .komissura.img{
 
